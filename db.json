@@ -1,8 +1,5 @@
-{
-  "formName": "sample",
-  "formDescription": "Sample form Description",
-  "apiErrMsg": null,
-  "formFields": [
+{ 
+  "posts": [
     {
       "id": 1,
       "field01": "Field 1-1",
